@@ -2977,11 +2977,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\FirstTask\\FirstTask.csproj",
+      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\FirstTask\\FirstTask.csproj",
       "projectName": "FirstTask",
-      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\FirstTask\\FirstTask.csproj",
+      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\FirstTask\\FirstTask.csproj",
       "packagesPath": "C:\\Users\\muazc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\FirstTask\\obj\\",
+      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\FirstTask\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3004,11 +3004,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DtoLayer\\DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DtoLayer\\DtoLayer.csproj"
+            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DtoLayer\\DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DtoLayer\\DtoLayer.csproj"
             }
           }
         }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DtoLayer\\DtoLayer.csproj",
+      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DtoLayer\\DtoLayer.csproj",
       "projectName": "DtoLayer",
-      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DtoLayer\\DtoLayer.csproj",
+      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DtoLayer\\DtoLayer.csproj",
       "packagesPath": "C:\\Users\\muazc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DtoLayer\\obj\\",
+      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DtoLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

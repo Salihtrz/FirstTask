@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9VupChI9rg=",
+  "dgSpecHash": "7Zh26RcJgi8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\FirstTask\\FirstTask.csproj",
+  "projectFilePath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\FirstTask\\FirstTask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\muazc\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
     "C:\\Users\\muazc\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

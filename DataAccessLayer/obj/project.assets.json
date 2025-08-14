@@ -4733,11 +4733,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\muazc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\DataAccessLayer\\obj\\",
+      "outputPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4760,8 +4760,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\C# Dersleri\\KayraExportTasks\\FirstTask\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\muazc\\OneDrive\\Masaüstü\\Proje ve Çalışmalarım\\GitHub\\FirstTask\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
