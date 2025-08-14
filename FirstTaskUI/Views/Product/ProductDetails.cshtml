@@ -1,4 +1,4 @@
-﻿@model CreateProductDto
+﻿@model GetProductDto
 @{
     Layout = null;
 }
@@ -83,7 +83,7 @@
                 <h1>Products</h1>
                 <ol class="breadcrumb">
                     <li class="active"><i class="fa fa-list"></i> Products</li>
-                    <li class="active"><i class="fa fa-table"></i> Create Product</li>
+                    <li class="active"><i class="fa fa-table"></i> Product Details</li>
                 </ol>
             </section>
 
@@ -92,44 +92,43 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="chart-box">
-                            <h4>Create Product Form</h4>
+                            <h4>Product Details</h4>
                             <div class="row">
                                 <form method="post">
                                     <div class="col-md-6">
                                         <div class="form-group has-feedback">
                                             <label class="control-label">Product Name</label>
-                                            <input type="text" class="form-control" asp-for="ProductName" placeholder="Product Name">
+                                            <input type="text" class="form-control" style="pointer-events:none;" asp-for="ProductName" readonly>
                                             <span class="fa fa-file-text-o form-control-feedback" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group has-feedback">
                                             <label class="control-label">Price</label>
-                                            <input type="number" class="form-control" asp-for="Price" placeholder="Price">
+                                            <input type="number" class="form-control" style="pointer-events:none;" asp-for="Price" readonly>
                                             <span class="fa fa-money form-control-feedback" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group has-feedback">
                                             <label class="control-label">Status</label>
-                                            <input type="text" class="form-control" style="pointer-events:none;" asp-for="Status" placeholder="True" readonly>
+                                            <input type="text" class="form-control" style="pointer-events:none;" asp-for="Status" readonly>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group has-feedback">
                                             <label class="control-label">Brand</label>
-                                            <input type="text" class="form-control" asp-for="Brand" placeholder="Brand">
+                                            <input type="text" class="form-control" style="pointer-events:none;" asp-for="Brand" readonly>
                                             <span class="fa fa-archive form-control-feedback" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group has-feedback">
                                             <label class="control-label">Description</label>
-                                            <textarea class="form-control" asp-for="Description" id="placeTextarea" rows="3" placeholder="Description..."></textarea>
+                                            <textarea class="form-control" style="pointer-events:none;" asp-for="Description" id="placeTextarea" rows="3" readonly></textarea>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
-                                        <button type="submit" class="btn btn-success btn-outline">Create Product</button>
                                         <a href="/Product/Index/" class="btn btn-primary btn-outline">Cancel</a>
                                     </div>
                                 </form>

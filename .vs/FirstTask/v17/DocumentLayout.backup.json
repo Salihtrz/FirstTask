@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|solutionrelative:firsttaskui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|solutionrelative:firsttaskui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|solutionrelative:firsttaskui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|solutionrelative:firsttaskui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|solutionrelative:firsttaskui\\views\\product\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70FAE650-3859-484B-B8C0-6E1F004B9D62}|FirstTaskUI\\FirstTaskUI.csproj|c:\\users\\muazc\\onedrive\\masa\u00FCst\u00FC\\proje ve \u00E7al\u0131\u015Fmalar\u0131m\\github\\firsttask\\firsttaskui\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,27 +43,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "FirstTaskUI\\Views\\Product\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\ProductDetails.cshtml",
+              "RelativeToolTip": "FirstTaskUI\\Views\\Product\\ProductDetails.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T15:01:52.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\UpdateProduct.cshtml",
               "RelativeDocumentMoniker": "FirstTaskUI\\Views\\Product\\UpdateProduct.cshtml",
               "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\UpdateProduct.cshtml",
               "RelativeToolTip": "FirstTaskUI\\Views\\Product\\UpdateProduct.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T13:56:11.385Z",
+              "WhenOpened": "2025-08-14T14:32:33.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateProduct.cshtml",
               "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\CreateProduct.cshtml",
               "RelativeDocumentMoniker": "FirstTaskUI\\Views\\Product\\CreateProduct.cshtml",
               "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\CreateProduct.cshtml",
               "RelativeToolTip": "FirstTaskUI\\Views\\Product\\CreateProduct.cshtml",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAswJwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHIAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T13:51:50.396Z",
+              "WhenOpened": "2025-08-14T14:18:19.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstTaskUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Controllers\\ProductController.cs*",
+              "RelativeToolTip": "FirstTaskUI\\Controllers\\ProductController.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvxoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T13:23:32.271Z",
               "EditorCaption": ""
             },
             {
@@ -70,22 +100,9 @@
               "RelativeDocumentMoniker": "FirstTaskUI\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "FirstTaskUI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv20AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-14T13:25:08.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "FirstTaskUI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\muazc\\OneDrive\\Masa\u00FCst\u00FC\\Proje ve \u00C7al\u0131\u015Fmalar\u0131m\\GitHub\\FirstTask\\FirstTaskUI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "FirstTaskUI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T13:23:32.271Z",
               "EditorCaption": ""
             }
           ]

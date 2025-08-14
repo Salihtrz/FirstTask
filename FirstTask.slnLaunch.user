@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "All",
+    "Projects": [
+      {
+        "Path": "FirstTaskApi\\FirstTaskApi.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FirstTaskUI\\FirstTaskUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
